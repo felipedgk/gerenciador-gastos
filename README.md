@@ -1,3 +1,10 @@
+## 🚀 Deploy
+Aplicação disponível em: [Acessar no Replit](https://replit.com/@seu-usuario/gerenciador-gastos)
+
+## 💵 Nova Funcionalidade — Etapa 2
+Integração com a [AwesomeAPI](https://economia.awesomeapi.com.br) 
+para exibir a cotação do dólar em tempo real ao usar a aplicação.
+
 # 💰 Gerenciador de Gastos Pessoais
 
 [![CI](https://github.com/felipedgk/gerenciador-gastos/actions/workflows/ci.yml/badge.svg)](https://github.com/felipedgk/gerenciador-gastos/actions/workflows/ci.yml)
