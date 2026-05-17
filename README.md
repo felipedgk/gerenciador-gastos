@@ -1,5 +1,5 @@
 ## 🚀 Deploy
-Aplicação disponível em: [Acessar no Replit](https://replit.com/@seu-usuario/gerenciador-gastos)
+Aplicação disponível em: [Acessar no Replit](https://replit.com/@felipecdn1/gerenciador-gastos)
 
 ## 💵 Nova Funcionalidade — Etapa 2
 Integração com a [AwesomeAPI](https://economia.awesomeapi.com.br) 
