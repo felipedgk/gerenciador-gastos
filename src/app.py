@@ -1,6 +1,7 @@
 """Interface CLI do Gerenciador de Gastos Pessoais."""
 
 from gastos import GerenciadorGastos, CATEGORIAS_VALIDAS
+from cotacao import exibir_cotacao
 
 
 def limpar_tela():
@@ -123,6 +124,7 @@ def acao_remover(gerenciador: GerenciadorGastos):
 def main():
     gerenciador = GerenciadorGastos()
     exibir_cabecalho()
+    exibir_cotacao()
     print("\nBem-vindo! Controle seus gastos de forma simples e rápida.\n")
 
     acoes = {
